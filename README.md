@@ -3,9 +3,9 @@
 
 I'm a passionate and goal-oriented creative blending **tech, business, and design** to build impactful digital experiences.
 
-![Profile Views](https://komarev.com/ghpvc/?username=kamaldeenabdulrahman&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/kamaldeenabdulrahman?label=Followers&style=social)
-![Languages](https://img.shields.io/github/languages/top/kamaldeenabdulrahman/kamaldeenabdulrahman)
+![Profile Views](https://komarev.com/ghpvc/?username=KeerahOlalekan&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/KeerahOlalekan?label=Followers&style=social)
+![Languages](https://img.shields.io/github/languages/top/KeerahOlalekan/KeerahOlalekan)
 
 💼 With experience in **marketing**, **product supervision**, and **sales leadership**, I bring strategic thinking into my tech projects.  
 🛠️ I build responsive, interactive websites using **HTML, CSS, JavaScript**, and design in **Figma**. Currently exploring **Python** for automation and backend development.  
