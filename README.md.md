@@ -10,7 +10,7 @@ I'm a passionate and goal-oriented creative blending **tech, business, and desig
 💼 With experience in **marketing**, **product supervision**, and **sales leadership**, I bring strategic thinking into my tech projects.  
 🛠️ I build responsive, interactive websites using **HTML, CSS, JavaScript**, and design in **Figma**. Currently exploring **Python** for automation and backend development.  
 🚀 Focused on delivering solutions in **auto-care services**, **investment platforms**, and **real-time tracking software**.  
-🌍 Based in **Katsina, Nigeria** | 💬 I speak **Nupe**, **Hausa**, and **English**  
+🌍 Based in **Katsina, Nigeria** | 💬 I speak **Yoruba**, **Hausa**, **English** and **Arabic**  
 📫 Email: [olalekankeerah@gmail.com](mailto:olalekankeerah@gmail.com)  
 🐦 Twitter: [@keeraholalekan](https://twitter.com/keeraholalekan)
 
