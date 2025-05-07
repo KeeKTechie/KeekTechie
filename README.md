@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Kamaldeen Abdulrahman
 
 I'm a passionate and goal-oriented creative blending **tech, business, and design** to build impactful digital experiences.
@@ -10,7 +9,7 @@ I'm a passionate and goal-oriented creative blending **tech, business, and desig
 💼 With experience in **marketing**, **product supervision**, and **sales leadership**, I bring strategic thinking into my tech projects.  
 🛠️ I build responsive, interactive websites using **HTML, CSS, JavaScript**, and design in **Figma**. Currently exploring **Python** for  AI, Machine Learning, Deep Learning, automation and backend development.  
 🚀 Focused on delivering an excellent solutions in tech fields.  
-🌍 Based in **Katsina, Nigeria** | 💬 I speak **Yoruba**, **Hausa**, **English** and **Arabic**  
+🌍 Based in **Katsina, Nigeria** | 💬 I speak **English**, **Hausa**, **Yoruba** and **Arabic**  
 📫 Email: [olalekankeerah@gmail.com](mailto:olalekankeerah@gmail.com)  
 🐦 Twitter: [@keeraholalekan](https://twitter.com/keeraholalekan)
 
