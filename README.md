@@ -15,7 +15,8 @@ I'm a passionate and goal-oriented creative blending **tech, business, and desig
 
 ---
 
-> “Building the future one line of code at a time.”
+> “Building the future one line of code at a time.” - Keerah
+> “I don’t just want to use AI—I want to create it with soul.” – Kamaldeen
 
 ---
 
